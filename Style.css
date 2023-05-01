@@ -1,0 +1,181 @@
+body{
+background-color: #37a584c9 ;
+
+
+}
+
+.test{
+  position: top right;
+  height: 100px;
+  width: 100px;
+  top: 10px;
+  margin-top: -200px;
+
+}
+
+.test2{
+  position: top right;
+  height: 100px;
+  width: 100px;
+  top: 10px;
+  margin-top: -40px;
+
+}
+
+.nlogo{
+position: top right;
+height: 100px;
+width: 100px;
+top: 10px;
+}
+
+.uj{
+  position: top right;
+  height: 100px;
+width: 100px;
+top:0px;
+left:1100px;
+margin-top: -20px;
+margin-left: 1130px;
+}
+.uj2{
+  position: top right;
+  height: 100px;
+width: 100px;
+top:0px;
+left:1100px;
+margin-top: 70px;
+margin-left: 1130px;
+}
+
+.uj3{
+  position: top right;
+  height: 100px;
+width: 100px;
+top:0px;
+left:1100px;
+margin-top: 70px;
+margin-left: 1130px;
+}
+
+.name{
+
+  color:#F7E1AE;
+  font-size: 30px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  width: 400px;
+  height: 150px;
+  text-align: center;
+  margin-left: 400px;
+  margin-top: -30px;
+}
+
+.style2{
+  width: 300px;
+  height: 100px;
+  position: top left;
+}
+
+.work,.cert,.about{
+text-decoration: none;
+color:white;
+padding: 20px;
+}
+
+.intro{
+  color:#FFF8D6;
+  font-size: 20px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  width: 400px;
+  height: 150px;
+  text-align: center;
+  margin-left: 410px;
+}
+  
+.x{
+  height: 150px;
+  width: 700px;
+  border:0px none none;
+  position: bottom right;
+  background-color: none;
+  background-image: url("style1.png");
+  background-size: 700px 70px;
+  background-repeat: no-repeat ;
+  background-position: bottom right;
+  margin-left: 584px;
+  margin-bottom: -300px;
+}
+
+.skill{
+  margin-left: 280px;
+}
+
+footer{
+  position: bottom center;
+}
+
+#my{
+
+  color:#F7E1AE;
+  position: center center;
+}
+
+.work1{
+  height: 465px;
+  width: 380px;
+  margin-left: 100px;
+  margin-top: 90px;
+}
+
+.work-exp{
+  height: 465px;
+  width: 380px;
+  margin-left: 700px;
+  margin-top: -460px;
+}
+
+#my{
+  margin-top: 70px;
+}
+.links{
+  margin-left: 50px;
+margin-top: 52px;
+}
+
+.links2{
+  margin-left: 50px;
+  margin-top: -30px;
+}
+
+.words{
+  margin-left: 700px;
+}
+
+.words2{
+  margin-left: 170px;
+  margin-top: -30px;
+}
+
+.line{
+  margin-left: 70px;
+  margin-top: 400px;
+}
+
+h4{
+  font-size:x-large;
+  color: white;
+}
+
+.nnn{
+margin-left: 1000px;
+margin-top: -1000px;
+}
+
+.mmm{
+
+}
+
+.contact-icons{
+margin-left: -30px;
+margin-top: 250px;
+}
